@@ -1,0 +1,28 @@
+{
+  "name": "e-com",
+  "version": "1.0.0",
+  "description": "e-com is website for selling products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilKuYadav/e-com.git"
+  },
+  "keywords": [
+    "e-com",
+    "sunil",
+    "kumar",
+    "yadav",
+    "website",
+    "next",
+    "js"
+  ],
+  "author": "Sunil Kumar Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SunilKuYadav/e-com/issues"
+  },
+  "homepage": "https://github.com/SunilKuYadav/e-com#readme"
+}
